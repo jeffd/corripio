@@ -1,0 +1,9 @@
+# We dont want the build files
+build/*
+
+# We don't care about the user's preferences
+*.mode*
+*.pbxuser
+
+# We don't want the Finder's metadata
+.DS_Store*
